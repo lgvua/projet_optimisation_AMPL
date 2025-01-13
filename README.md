@@ -1,4 +1,4 @@
-# AMPL : Un Outil d'Optimisation Puissant
+# AMPL : Un outil d'optimisation puissant
 
 AMPL (A Mathematical Programming Language) est un langage de programmation conçu spécifiquement pour modéliser et résoudre des problèmes d'optimisation. Il permet de formuler des modèles mathématiques complexes, de définir des variables, des contraintes et des objectifs, puis de les résoudre à l’aide de solveurs adaptés. AMPL est largement utilisé dans les domaines de la recherche opérationnelle, de la logistique, de la gestion des ressources et de nombreux autres secteurs nécessitant des décisions stratégiques basées sur des données.
 
@@ -10,5 +10,5 @@ AMPL sert à résoudre des problèmes d'optimisation complexes qui impliquent so
 
 Dans ce projet, nous utilisons AMPL pour optimiser les activités d'une usine de fabrication, en maximisant les profits tout en respectant diverses contraintes de production. Pour en savoir plus sur les approches et les résultats, vous pouvez consulter les projets suivants :
 
-- [Projet 1: Optimisation de la production](projet1.pdf)
-- [Projet 2: Optimisation des ressources et coûts](projet2.pdf)
+- [Projet 2: Planification du fonctionnement d'une usine](projet2.pdf) : un compte rendu accessible et détaillé
+- [Projet 1: Optimisation du schéma de distributions](projet1.pdf) : un compte rendu technique
