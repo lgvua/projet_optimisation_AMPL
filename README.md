@@ -10,5 +10,5 @@ AMPL sert à résoudre des problèmes d'optimisation complexes qui impliquent so
 
 Dans ce projet, nous utilisons AMPL pour optimiser les activités d'une usine de fabrication, en maximisant les profits tout en respectant diverses contraintes de production. Pour en savoir plus sur les approches et les résultats, vous pouvez consulter les projets suivants :
 
-- [Projet 2: Planification du fonctionnement d'une usine](projet2.pdf) : un compte rendu accessible et détaillé
-- [Projet 1: Optimisation du schéma de distributions](projet1.pdf) : un compte rendu technique
+- [Projet 2: Planification du fonctionnement d'une usine](Projet2.pdf) : un compte rendu accessible et détaillé
+- [Projet 1: Optimisation du schéma de distributions](Projet1.pdf) : un compte rendu technique
